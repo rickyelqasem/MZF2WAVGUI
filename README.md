@@ -15,7 +15,7 @@ How to use:
             
             Would be watching the demo video > https://youtu.be/iwD3-5ENyE8 
             
-            If you are planning to use with ArduiTape use the -c and -b option
+            If you are planning to use an ArduiTape device use the -c and -b option
             
             
 Any issues let me know.
