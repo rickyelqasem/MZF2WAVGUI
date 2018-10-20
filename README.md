@@ -17,5 +17,7 @@ How to use:
             
             If you are planning to use an ArduiTape device use the -c and -b option
             
+            v1.5 now has batch conversion mode to convert multiple files in one job. I've attached a video showing how it works. 
+            
             
 Any issues let me know.
