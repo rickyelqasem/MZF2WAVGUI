@@ -15,9 +15,11 @@ How to use:
             
             Would be watching the demo video > https://youtu.be/iwD3-5ENyE8 
             
-            If you are planning to use an ArduiTape device use the -c and -b option
+            If you are planning to use an MZuiTape device use the -c and -b option
             
             v1.5 now has batch conversion mode to convert multiple files in one job. I've attached a video showing how it works. 
+            
+            If you would like to purchase a MZuiTape device contact me on info@youmakerobots.com
             
             
 Any issues let me know.
