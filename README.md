@@ -8,6 +8,8 @@ How to use:
 
             Unzip MZF2WAVGUI and install the setup.exe
             
+            PLEASE BACKUP YOUR MZ FILES BEFORE USE
+            
             Load an MZF/MZT file (freely available on the interenet or one of the builtin ones)
             
             Save the File to WAV format locally or to media player
