@@ -1,7 +1,7 @@
 # MZF2WAVGUI
 Uses MZF2WAV to convert mzf/mzt files for Sharp MZ computers to wav files, and allows you to play them. A bit like a tape emulator to use with MZs.
 
-It uses Jeroen Laros's 15 year old MZF to WAV converter command, but adds a fancy new GUI. Thanks Jeroen for your support
+It uses [Jeroen Laros's 15 year old MZF to WAV converter command](https://github.com/jfjlaros/mzf2wav), but adds a fancy new GUI. Thanks Jeroen for your support
 Thanks Bernd Krüger-Knauber for permission to use MZTtoMZF for mzt conversion
 
 How to use:
